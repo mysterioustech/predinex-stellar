@@ -5,9 +5,9 @@
   "scripts": {
     "doc": "typedoc",
     "doc:watch": "typedoc --watch",
-    "dev": "next dev --webpack",
-    "build": "next build --webpack",
-    "start": "next start",
+    "dev": "node init && next dev --webpack",
+    "build": "node init && next build --webpack",
+    "start": "node init && next start",
     "lint": "eslint",
     "test": "vitest",
     "test:ui": "vitest --ui",
