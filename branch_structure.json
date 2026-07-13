@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/cargo/contracts/predinex/soroban-sdk-27.0.0",
+    "dependabot/npm_and_yarn/web/recharts-3.9.2",
+    "dependabot/npm_and_yarn/web/vitejs/plugin-react-6.0.2",
+    "dependabot/npm_and_yarn/web/vitest-4.1.8",
+    "fix/758-760-761-762-wave7",
+    "fix/876-add-permissions-blocks",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "dependabot/cargo/contracts/predinex/soroban-sdk-27.0.0": "main",
+    "dependabot/npm_and_yarn/web/recharts-3.9.2": "main",
+    "dependabot/npm_and_yarn/web/vitejs/plugin-react-6.0.2": "main",
+    "dependabot/npm_and_yarn/web/vitest-4.1.8": "main",
+    "fix/758-760-761-762-wave7": "main",
+    "fix/876-add-permissions-blocks": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/cargo/contracts/predinex/soroban-sdk-27.0.0",
+    "dependabot/npm_and_yarn/web/recharts-3.9.2",
+    "dependabot/npm_and_yarn/web/vitejs/plugin-react-6.0.2",
+    "dependabot/npm_and_yarn/web/vitest-4.1.8",
+    "fix/758-760-761-762-wave7",
+    "fix/876-add-permissions-blocks",
+    "origin"
+  ]
+}
