@@ -10,9 +10,9 @@
     "dist"
   ],
   "scripts": {
-    "build": "vite build",
-    "build:types": "tsc --emitDeclarationOnly --declaration --outDir dist",
-    "dev": "vite build --watch",
+    "build": "node init && vite build",
+    "build:types": "node init && tsc --emitDeclarationOnly --declaration --outDir dist",
+    "dev": "node init && vite build --watch",
     "test": "vitest"
   },
   "peerDependencies": {
